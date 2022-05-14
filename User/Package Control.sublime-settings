@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"AutoPEP8",
+		"BracketHighlighter",
+		"Git",
+		"GitGutter",
+		"Indent XML",
+		"LSP",
+		"LSP-gopls",
+		"MarkdownEditing",
+		"MarkdownPreview",
+		"Material Theme",
+		"Package Control",
+		"PackageResourceViewer",
+		"requirementstxt",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-gcc",
+		"Terminal",
+	],
+	"in_process_packages":
+	[
+	],
+}
